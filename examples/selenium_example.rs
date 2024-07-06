@@ -41,3 +41,5 @@ async fn main() -> color_eyre::Result<()> {
 
     Ok(())
 }
+
+// cargo run --example selenium_example
